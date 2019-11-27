@@ -1,9 +1,3 @@
-export SONAR_PROJECT_KEY=
-export SONAR_ORGANIZATION_NAME=
-export SONAR_LOGIN_KEY=
-export SONAR_SORCE_TARGET=./src 
-
-
 
 ./tools-lib/sonar-scanner/bin/sonar-scanner \
   -Dsonar.projectKey=$SONAR_PROJECT_KEY \
