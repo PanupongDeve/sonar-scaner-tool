@@ -7,6 +7,6 @@
   "license": "MIT",
   "scripts": {
     "scan-code-dev": "./scripts/scan-code/scan-dev.sh",
-    "scan-code-deploy": "./scripts/scan-code/scan-deploy.sh"
+    "scan-code-ci": "./scripts/scan-code/scan-ci.sh"
   }
 }
