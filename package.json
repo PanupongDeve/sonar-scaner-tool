@@ -1,0 +1,12 @@
+{
+  "name": "sonar-scan-coder",
+  "version": "1.0.0",
+  "description": "Tools for use sona cloud scan your quality code (https://sonarcloud.io/)",
+  "main": "index.js",
+  "author": "PanupongDeve",
+  "license": "MIT",
+  "scripts": {
+    "scan-code-dev": "./scripts/scan-code/scan-dev.sh",
+    "scan-code-deploy": "./scripts/scan-code/scan-deploy.sh"
+  }
+}
